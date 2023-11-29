@@ -1,5 +1,5 @@
 const { google } = require('googleapis');
-const apiKey = 'AIzaSyD-60Y3mmhUBn-W1SpV2odNlEDsu-RdRog'; // Reemplaza con tu propia clave de API
+const apiKey = ''; // Reemplaza con tu propia clave de API
 
 const youtube = google.youtube({
   version: 'v3',
